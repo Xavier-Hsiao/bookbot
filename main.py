@@ -44,7 +44,7 @@ def count_chars(text):
 def sort_on(dict):
   return dict["num"]
 
-# Sort the dict alphabatically
+# Sort the char_dict based on the number
 def chars_dict_to_sorted_list(char_dict):
   sorted_list = []
 
